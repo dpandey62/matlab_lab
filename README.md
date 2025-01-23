@@ -4,4 +4,4 @@
 
 2 Implementation of Relationships between Pixels
 
-3 
+3 Contrast stretching of a low contrast image, Histogram, and Histogram Equalization
