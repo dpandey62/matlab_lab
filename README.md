@@ -13,3 +13,9 @@ A certain number of algorithms are used in image processing.
 2 Implementation of Relationships between Pixels
 
 3 Contrast stretching of a low contrast image, Histogram, and Histogram Equalization
+
+4
+
+5
+
+6 
