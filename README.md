@@ -19,3 +19,5 @@ A certain number of algorithms are used in image processing.
 5
 
 6 
+
+7
