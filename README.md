@@ -18,6 +18,6 @@ A certain number of algorithms are used in image processing.
 
 5
 
-6 
+6 Computation of Mean, Standard Deviation, Correlation coefficient of the given Image.
 
 7
