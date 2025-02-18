@@ -20,4 +20,6 @@ A certain number of algorithms are used in image processing.
 
 6 Computation of Mean, Standard Deviation, Correlation coefficient of the given Image.
 
-7
+7 Low Pass Filtered  and High Pass Filtered
+
+8 Gausian 
