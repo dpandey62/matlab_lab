@@ -22,4 +22,5 @@ A certain number of algorithms are used in image processing.
 
 7 Low Pass Filtered  and High Pass Filtered
 
-8 Gausian 
+8 Gausian  Filter
+
